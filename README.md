@@ -7,4 +7,4 @@ Camila Rosso (CI 4.530.414-0)
 
 Letra del obligatorio: [aquí](Lab_2016_letra.pdf)
 Corpus: [aquí](corpus_pj.tar.bz2)
-Solución (Jupyter Notebook): [aquí](Laboratorio IPLN.ipynb)
+Solución (Jupyter Notebook): [aquí](Laboratorio\ IPLN.ipynb)
